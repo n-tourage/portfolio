@@ -48,7 +48,12 @@
 **Data Competitor @ MinneMUDAC (_February 2023 – March 2023_)**
 - Led cross-collaboration meetings with 5 members to present, design, and model various data for MLB game attendance
 - Cleansed, manipulated, and blended multiple sources of data with 50,000 observations and 160+ variables in R
-- Implemented XGBOOST to predict MLB attendance for MN twin’s 2023 schedule, resulting in a 70% model accuracy 
+- Implemented XGBOOST to predict MLB attendance for MN twin’s 2023 schedule, resulting in a 70% model accuracy
+
+**Data Competitor @ Travelers Actuarial Case Competition  - Midwest (_January 2021 – March 2021_)**
+- Collaborated with cross functional partners (5 executive members) to research, design, and model various data for a Travelers’ team case competition
+- Supported members to conduct preliminary analysis and select final reserve estimate for bodily injury and property damage insurance based off data: received 3rd
+- Presented insights on auto reserving final estimates given covid-19 effects to the Travelers senior management 
 
 **Finance Consultant @ VSAM (_July 2021  – February 2023_)**
 - Oversaw a team of 8 finance committee volunteers to manage finances successfully and fundraiser standards
