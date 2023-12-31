@@ -6,6 +6,13 @@
 - B.A., Actuarial Science | University of Minnesota - Twin Cities (_December 2023_)								       		
 - B.S., Statistical Science | University of Minnesota - Twin Cities (_December 2023_)		        		
 
+## Projects
+
+# Michelin Restaurants Insights and Guide
+
+[Michelin Restaurants](https://public.tableau.com/app/profile/brendan.pham6539/viz/MichelinStarRestauraunts/Distribution)
+
+Utilizing **Tableau & Python** to transform and visualize datasets collected from Michelin Restaurants on 6000+ restaurants across the world that is awarded for Michelin Stars for foodies and critics.
 
 ## Work Experience
 **Data Analyst Intern @ ProAg (_March 2023 - Agust 2023_)**
