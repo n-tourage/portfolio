@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: R, Python, SQL, Azure, Tableau, Power Bi
 
