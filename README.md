@@ -14,6 +14,10 @@
 
 Utilizing **Tableau & Python** to transform and visualize datasets collected from Michelin Restaurants on 6000+ restaurants across the world that is awarded for Michelin Stars for foodies and critics.
 
+# Github
+
+[Github](https://github.com/n-tourage)
+
 ## Work Experience
 **Data Analyst Intern @ ProAg (_March 2023 - Agust 2023_)**
 - Responsible for SQL queries to join, retrieve, and create performance metrics from the enterprise data warehouse
