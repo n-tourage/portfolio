@@ -5,6 +5,7 @@
 ## Education
 - B.A., Actuarial Science | University of Minnesota - Twin Cities (_December 2023_)								       		
 - B.S., Statistical Science | University of Minnesota - Twin Cities (_December 2023_)		        		
+- Google Data Analytics Professional Certificate | Coursera  (_January 2024_)
 
 ## Projects
 
